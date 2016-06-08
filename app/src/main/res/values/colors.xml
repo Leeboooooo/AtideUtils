@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="register_success_info_col">#009900</color>
+	<color name="login_title_col">#3389e7</color>
+
+    <color name="news_title_color_n">#666666</color>
+    <color name="news_title_color_h">#3f92e9</color>
+
+    <color name="news_search_color_h">#f3f3f3</color>
+    <color name="news_search_color_n">#FFFFFF</color>
+
+    <color name="uenabled_color">#999999</color>
+    <color name="spilt_gray_light">#999999</color>
+    <color name="spilt_gray_light_child">#DEDEDE</color>
+
+    <color name="gray">#e8edf3</color>
+    <color name="gray1">#999999</color>
+    <color name="gray2">#A0A0A1</color>
+    <color name="gray3">#ABC0DA</color>
+    <color name="white">#ffffff</color>
+    <color name="blue">#3f92e9</color>
+    <color name="black">#000000</color>
+    <color name="default_back">#F7F7F7</color>
+    <color name="orange">#FF5313</color>
+    <color name="light_orange">#CD9966</color>
+    <color name="yellow">#F58414</color>
+
+    <color name="lightblue">#67A5ED</color>
+    <color name="lightblue1">#99C4F3</color>
+    <color name="lightblue3">#358AE7</color>
+    <color name="lightblue4">#7DAEEB</color>
+    <color name="lightblue5">#B0C4DC</color>
+
+    <color name="green">#39c6ad</color>
+    <color name="dark_green">#059A05</color>
+    <color name="progress2">#DAE0E7</color>
+
+
+    <color name="chart1">#cacaca</color>
+    <color name="chart2">#abc0da</color>
+    <color name="chart3">#cfad27</color>
+    <color name="chart4">#f08c89</color>
+    <color name="chart5">#77d28a</color>
+    <color name="chart6">#b5a5f1</color>
+    <color name="chart7">#77a2d2</color>
+    <color name="chart8">#84919f</color>
+
+    <color name="chart9">#DF7B21</color>
+
+
+
+    <color name="chartPie1">#B8CCE5</color>
+    <color name="chartPie2">#98AEC8</color>
+
+    <!--middlemeter titlebar color -->
+    <color name="title_bg">#3366FF</color>
+    <color name="title_text">#FFFFFF</color>
+    <!-- titlebar color -->
+    <color name="meter_but_bg">#009DD9</color>
+    <color name="but">#008AEB</color>
+    <color name="but_text_defcolor">#9A9A9A</color>
+
+    <color name="radiobg_press">#33b5e5</color>
+    <color name="radiobg_normal">#FCFCFD</color>
+
+    <color name="main_title">#666699</color>
+    <color name="title_bg_color">#004578</color>
+    <color name="text_col">#0066FF</color>
+    <color name="about_bottom_text_col">#444443</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="red">#FF0000</color>
+    <color name="title_color">#333333</color>
+</resources>
